@@ -1,1 +1,1 @@
-fg
+all ru
